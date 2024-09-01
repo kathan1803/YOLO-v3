@@ -1,4 +1,4 @@
-# <font color="blue">YOLOv3 Pre-Trained Model Implementation</font>
+# YOLOv3 Pre-Trained Model Implementation
 
 ## Overview
 This repository provides an implementation of the YOLOv3 (You Only Look Once version 3) object detection model with pre-trained weights. YOLOv3 is known for its speed and accuracy in real-time object detection tasks.
@@ -18,8 +18,8 @@ Matplotlib 3.9.1
 ### 1. Clone this repository:
 git clone https://github.com/kathan1803/YOLO-v3.git
 
-### 2. Download the pre-trained weights
-Download the pre-trained YOLOv3 weights file from here and place it in the weights directory.
+### 2. Download the pre-trained weights:
+Download the pre-trained YOLOv3 weights file from here and place it in the weights directory
 https://pjreddie.com/darknet/yolo/
 
 ## Results
