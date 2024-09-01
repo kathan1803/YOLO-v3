@@ -5,13 +5,12 @@ This repository provides an implementation of the YOLOv3 (You Only Look Once ver
 
 ## Features
 Pre-trained YOLOv3 weights for detecting objects in images and videos.
-Easy-to-use scripts for running inference.
 
 ## Required Python packages
-TensorFlow 2.17.0
-OpenCV 4.9.0.80
-NumPy 1.26.4
-Matplotlib 3.9.1
+TensorFlow 2.17.0\n
+OpenCV 4.9.0.80\n
+NumPy 1.26.4\n
+Matplotlib 3.9.1\n
 
 ## Installation
 
@@ -19,7 +18,7 @@ Matplotlib 3.9.1
 git clone https://github.com/kathan1803/YOLO-v3.git
 
 ### 2. Download the pre-trained weights:
-Download the pre-trained YOLOv3 weights file from here and place it in the weights directory
+Download the pre-trained YOLOv3 weights file from here and place it in the weights directory\n
 https://pjreddie.com/darknet/yolo/
 
 ## Results
